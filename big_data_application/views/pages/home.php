@@ -13,6 +13,16 @@
                     <i class="fa fa-folder-o"></i> Java Data Structures and Algorithms
                 </li>
             </ul>
+            <ul class="list-group list-group-horizontal-xxl">
+                <li class="list-group-item">
+                    <i class="fa fa-folder-o"></i> Java Data Structures and Algorithms
+                </li>
+            </ul>
+            <ul class="list-group list-group-horizontal-xxl">
+                <li class="list-group-item">
+                    <i class="fa fa-folder-o"></i> Java Data Structures and Algorithms
+                </li>
+            </ul>
         </div>
         <div class="col-0"></div>
     </div>
