@@ -1,3 +1,5 @@
+alias update='git add -u'
+
 alias add='git add'
 alias commit='git commit'
 alias push='git push origin main'
